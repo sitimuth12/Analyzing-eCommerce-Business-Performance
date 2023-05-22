@@ -9,19 +9,21 @@ Analyze business performance which consists of three aspects including customer 
 1. Preparing raw data into structured data, ready to be processed and create Entity Relationship Diagram (ERD) [here](https://drive.google.com/file/d/1RLgKcfFC4NdSNoWkiyKxnjlFEIUunZ6f/view?usp=share_link)
 
 2. Analyzing business performance from three aspects including:
-    1) Annual Customer Activity Growth Analysis
-    2) Annual Product Category Quality Analysis
-    3) Analysis of Annual Payment Type Usage
+    a. Annual Customer Activity Growth Analysis
+    b. Annual Product Category Quality Analysis
+    c. Analysis of Annual Payment Type Usage
 3. Create a visualization of the analysis results with tableau
 
 ## Analysis Result
 1. Annual Customer Activity Growth Analysis
+
 ![alt text](Fig/Result1.png)
 
 2. Annual Product Category Quality Analysis
 ![alt text](Fig/Result2.png)
 
 3. Analysis of Annual Payment Type Usage
+
 ![alt text](Fig/Result3.png)
 
 ## Insight
